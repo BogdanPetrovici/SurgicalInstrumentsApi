@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SurgicalInstrumentsApi/obj
+/SurgicalInstrumentsApi.Db/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Db/obj/Debug/net6.0
+/SurgicalInstrumentsApi.Db/obj
+/SurgicalInstrumentsApi.Db.Sql/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Db.Sql/obj
+/SurgicalInstrumentsApi.Db.Sql.Test/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Db.Sql.Test/obj/Debug/net6.0
+/SurgicalInstrumentsApi.Db.Sql.Test/obj
+/SurgicalInstrumentsApi.Dto/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Dto/obj
+/SurgicalInstrumentsApi.Scraper/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Scraper/obj
+/SurgicalInstrumentsApi.Test/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Test/obj
+/SurgicalInstrumentsApi.Test
+/SurgicalInstrumentsApi.Web/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Web/obj/Debug/net6.0
+/SurgicalInstrumentsApi.Web/obj
+/SurgicalInstrumentsApi.Web.Test/bin/Debug/net6.0
+/SurgicalInstrumentsApi.Web.Test/obj
